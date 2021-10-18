@@ -1,5 +1,5 @@
 CLI commands
-========
+============
 
 Basic usage:
 
